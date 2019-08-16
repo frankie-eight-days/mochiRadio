@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name coinCellSensor)(type Legacy)(uri C:/Users/fwalsh/Documents/GitHub/CoinCellSensor/CoinCellSensor/coinCellSensor.lib)(options "")(descr ""))
+  (lib (name CoinCellSensor-rescue)(type Legacy)(uri ${KIPRJMOD}/CoinCellSensor-rescue.lib)(options "")(descr ""))
+)
